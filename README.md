@@ -1,3 +1,3 @@
 Approved project topic: Student Grade Calculator
 Mark features: Data output, calculations
-Hisham features: 
+Darren features: Data input, and menu
